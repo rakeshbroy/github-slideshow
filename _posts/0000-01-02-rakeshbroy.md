@@ -1,7 +1,7 @@
 ---
 
 layout: slide
-title: "Welcome to our Rakeshbroy's slide!"
+title: "Welcome to our Rakeshbroy's slide!" tada:
 
 ---
 
